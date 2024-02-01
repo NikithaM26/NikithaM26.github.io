@@ -1,4 +1,4 @@
-# Hey there! I'm Nikitha
+# Hey! I'm Nikitha
 
 - 🔭 Software Development Engineer
 - 👩🏻‍💻 I find building new tech and solving real-time problems exhilarating!
